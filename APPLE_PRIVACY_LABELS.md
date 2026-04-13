@@ -78,7 +78,7 @@ The app does not use any advertising SDKs or tracking frameworks."
 
 ## App Store Required Links
 1. Privacy Policy URL — must be live before submission
-2. Support URL — can be your GitHub page or email (support@yourcompany.com)
+2. Support URL — can be your GitHub page or email (nkazi09@gmail.com)
 3. Marketing URL — optional but recommended
 
 ---
