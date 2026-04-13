@@ -81,4 +81,6 @@ Depending on your location, you may have rights to:
 
 We will notify users of material changes by updating the "Last updated" date above.
 
+## 11. Contact
 
+For privacy questions: nkazi09@gmail.com
