@@ -1,4 +1,4 @@
-# Privacy Policy for SmartSpend AI
+# Privacy Policy for PocketMind AI
 
 **Last updated: April 2026**
 
